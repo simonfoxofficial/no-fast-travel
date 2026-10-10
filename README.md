@@ -60,4 +60,4 @@ nether_no_fast_travel/
 
 ## Licenza
 
-Aggiungi qui la licenza che preferisci (per esempio MIT) e il file `LICENSE` nel repository.
+Progetto distribuito con licenza [MIT](LICENSE).
